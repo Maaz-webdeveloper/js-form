@@ -6,7 +6,7 @@ You can see basic form handling and validation.
 No libraries are used.
 
 ## Live Demo
-https://js-form-bct13zo1a-maaz-webdevelopers-projects.vercel.app
+https://js-form-alnexkspr-maaz-webdevelopers-projects.vercel.app/
 
 ## Features
 - Form input handling
